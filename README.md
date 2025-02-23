@@ -1,2 +1,3 @@
-# macos-terminal-colors
-Import high-quality terminal themes and color schemes for default macOS Terminal.app.
+# macOS Terminal Colors
+Originally, this repo was part of the dotfiles to backup terminal theme along side the terminal smarts.
+
